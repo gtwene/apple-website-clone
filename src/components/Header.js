@@ -5,7 +5,7 @@ import { AiOutlineApple } from "react-icons/ai";
 
 const Header = () => {
   return (
-    <div className="h-30 space-y-1 flex justify-between p-4 bg-[#323438] text-[#c6c9cc]">
+    <div className="h-30 space-y-1 flex justify-between p-4 bg-[#323438] text-[#c6c9cc] cursor-pointer">
       <img className="" src="./images/logo.png" alt="" width={30} />
       <h1 className="">Store</h1>
       <h1 className="">Mac</h1>
